@@ -10,7 +10,7 @@
 - User Experience
 - Development
 - Web Design
-- Enterprise UX
+- Digital Marketing
 
 ### Connect with me:
 
