@@ -1,6 +1,6 @@
 ### Hi there, I'm Matej - aka [matejnovak][website] 👋
 
-[![Website](https://www.matejnovak.si)](matejnovak.si)
+[![Website](https://img.shields.io/website?label=matejnovak.si&style=for-the-badge&url=https%3A%2F%2Fmatejnovak.si)](https://matejnovak.si)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kravzlek?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmatejnovak&screen_name=kravzlek)
 
 ## B2B marketing and growth executive. 👌 15 years of experience in enterprise technology. 😎 Passion for building, launching, and scaling products and teams.
