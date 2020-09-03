@@ -42,6 +42,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Uporaba družbenih omrežij v Sloveniji](https://medium.com/pakt/uporaba-dru%C5%BEbenih-omre%C5%BEij-v-sloveniji-b3be40bc2a36?source=rss-5943921f7df------2)
+- [Kaj je marketing?](https://medium.com/pakt/kaj-je-marketing-45e76ba2fce5?source=rss-5943921f7df------2)
+- [Izdelava spletnih strani Minimum](https://medium.com/minimum-si/izdelava-spletnih-strani-minimum-86e0ab45296?source=rss-5943921f7df------2)
+- [Kanali marketinga (celoten seznam)](https://medium.com/pakt/kanali-marketinga-celoten-seznam-d13af37cdd54?source=rss-5943921f7df------2)
+- [Kako napisati popoln SEO članek?](https://medium.com/pakt/kako-napisati-popoln-seo-%C4%8Dlanek-b4d52b8f73e1?source=rss-5943921f7df------2)
 <!-- BLOG-POST-LIST:END -->
 
 
