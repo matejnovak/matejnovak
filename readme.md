@@ -57,4 +57,4 @@
 [twitter]: https://twitter.com/kravzlek
 [instagram]: https://instagram.com/kravzlek
 [linkedin]: https://linkedin.com/in/kravzlek
-[dribbble]: https://dribbble.com/kravzlek
+[dribbble]: https://dribbble.com/matejnovak
