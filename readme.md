@@ -19,6 +19,7 @@
 [<img align="left" alt="kravzlek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kravzlek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kravzlek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="kravzlek | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -58,3 +59,4 @@
 [instagram]: https://instagram.com/kravzlek
 [linkedin]: https://linkedin.com/in/kravzlek
 [dribbble]: https://dribbble.com/matejnovak
+[youtube]: https://www.youtube.com/channel/UCtszqIjZHrCQazHraDdsVqw
