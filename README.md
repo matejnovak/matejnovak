@@ -1,7 +1,3 @@
-# Hi, I'm Matej
-
-B2B marketing and growth in Slovenia. 20 years in enterprise tech, building products, launching them and scaling the teams behind them.
-
 ### What I'm doing now
 
 - Running marketing at [**Pakt**](https://pakt.si), a Slovenian B2B agency.
