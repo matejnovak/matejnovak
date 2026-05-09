@@ -17,4 +17,4 @@ error_log
 # Ignore everything in the root except ...
 /*
 !.gitignore
-!maintenance.php
+!maintenance.php.DS_Store

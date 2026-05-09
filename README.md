@@ -1,59 +1,24 @@
-### Hi there, I'm Matej Novak - aka [kravzlek][website] 👋
+# Hi, I'm Matej
 
-[![Website](https://img.shields.io/website?label=matejnovak.si&style=for-the-badge&url=https%3A%2F%2Fmatejnovak.si)](https://matejnovak.si)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kravzlek?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmatejnovak&screen_name=kravzlek)
+B2B marketing and growth in Slovenia. 15 years in enterprise tech, building products, launching them and scaling the teams behind them.
 
-### Skill Set:
+### What I'm doing now
 
-- Digital Strategy
-- Branding
-- User Experience
-- Development
-- Web Design
-- Digital Marketing
+- Running marketing at [**Pakt**](https://pakt.si), a Slovenian B2B agency.
+- Writing on [**matejnovak.si**](https://matejnovak.si).
+- After-hours: small Rust and web tools, pinned below.
 
-### Connect with me:
+### Where I help
 
-[<img align="left" alt="matejnovak.si" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kravzlek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kravzlek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kravzlek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="kravzlek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="kravzlek | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+B2B go-to-market and positioning. Demand generation, brand and lifecycle. Hiring and shaping marketing teams.
+
+### Find me
+
+[matejnovak.si](https://matejnovak.si) · [LinkedIn](https://linkedin.com/in/kravzlek) · [Pakt](https://pakt.si)
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br>
-
-
-### Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Uporaba družbenih omrežij v Sloveniji](https://medium.com/pakt/uporaba-dru%C5%BEbenih-omre%C5%BEij-v-sloveniji-b3be40bc2a36?source=rss-5943921f7df------2)
-- [Kaj je marketing?](https://medium.com/pakt/kaj-je-marketing-45e76ba2fce5?source=rss-5943921f7df------2)
-- [Izdelava spletnih strani Minimum](https://medium.com/minimum-si/izdelava-spletnih-strani-minimum-86e0ab45296?source=rss-5943921f7df------2)
-- [Kanali marketinga (celoten seznam)](https://medium.com/pakt/kanali-marketinga-celoten-seznam-d13af37cdd54?source=rss-5943921f7df------2)
-- [Kako napisati popoln SEO članek?](https://medium.com/pakt/kako-napisati-popoln-seo-%C4%8Dlanek-b4d52b8f73e1?source=rss-5943921f7df------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-[website]: https://www.matejnovak.si/
-[twitter]: https://twitter.com/kravzlek
-[instagram]: https://instagram.com/kravzlek
-[linkedin]: https://linkedin.com/in/kravzlek
-[dribbble]: https://dribbble.com/matejnovak
-[youtube]: https://www.youtube.com/channel/UCtszqIjZHrCQazHraDdsVqw
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matejnovak&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matejnovak&layout=compact&hide_border=true" />
+</picture>
