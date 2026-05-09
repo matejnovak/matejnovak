@@ -7,7 +7,7 @@
 
 **Marketing & growth**: B2B go-to-market, positioning, demand generation, brand and lifecycle. Hiring and shaping marketing teams.
 
-**Digital build**: websites, e-commerce, web apps, automations and integrations. Hands-on or via [Pakt](https://pakt.si).
+**Digital build**: websites, e-commerce, web apps, automations and integrations.
 
 Open to projects and advisory.
 
