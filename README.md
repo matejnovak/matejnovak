@@ -1,12 +1,11 @@
 # Hi, I'm Matej
 
-B2B marketing and growth in Slovenia. 15 years in enterprise tech, building products, launching them and scaling the teams behind them.
+B2B marketing and growth in Slovenia. 20 years in enterprise tech, building products, launching them and scaling the teams behind them.
 
 ### What I'm doing now
 
 - Running marketing at [**Pakt**](https://pakt.si), a Slovenian B2B agency.
-- Writing on [**matejnovak.si**](https://matejnovak.si).
-- After-hours: small Rust and web tools, pinned below.
+- After-hours: small tools and side projects, pinned below.
 
 ### Where I help
 
@@ -14,7 +13,7 @@ B2B go-to-market and positioning. Demand generation, brand and lifecycle. Hiring
 
 ### Find me
 
-[matejnovak.si](https://matejnovak.si) · [LinkedIn](https://linkedin.com/in/kravzlek) · [Pakt](https://pakt.si)
+[LinkedIn](https://linkedin.com/in/kravzlek) · [Pakt](https://pakt.si)
 
 <br />
 
