@@ -13,7 +13,7 @@ B2B go-to-market and positioning. Demand generation, brand and lifecycle. Hiring
 
 ### Find me
 
-[LinkedIn](https://linkedin.com/in/kravzlek) · [Pakt](https://pakt.si)
+[LinkedIn](https://www.linkedin.com/in/matejnovak5/) · [X](https://x.com/kravzlek) · [Pakt](https://pakt.si)
 
 <br />
 
